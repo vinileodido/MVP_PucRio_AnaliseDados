@@ -1,5 +1,12 @@
 # Características do Dataset IoT Industrial
 
+---
+
+## ❗ Objetivo do Dataset
+Este dataset é típico para **manutenção preditiva**, onde o objetivo é prever falhas antes que aconteçam, usando dados de sensores IoT para otimizar a manutenção industrial.
+
+---
+
 ## 🏭 Categorização de Máquinas
 A variável "**Tipo_Máquina**" possui a informação de quais classes os maquinários são categorizados.
 
@@ -90,8 +97,3 @@ O dataset inclui conhecimento específico do domínio com **32 tipos de máquina
 
 **Falha_Nos_Próximos_7_Dias** 🎯📅
 - **Variável target**: indica se a máquina falhará nos próximos 7 dias (True/False)
-
----
-
-## ❗ Objetivo do Dataset
-Este dataset é típico para **manutenção preditiva**, onde o objetivo é prever falhas antes que aconteçam, usando dados de sensores IoT para otimizar a manutenção industrial.
